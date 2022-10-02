@@ -1,4 +1,4 @@
-#Three microservices - used Python, Django, Java, Spring, Redis, RabbitMQ
+# Three microservices - used Python, Django, Java, Spring, Redis, RabbitMQ
 
 ## App1:
 Coded with Python and Django Framework. An application provide /post [POST] endpoint which accepts all JSONs. If request is correct, it returns JSON's data, else it returns status code - 400.
